@@ -1,0 +1,12 @@
+// Premium AI SaaS Components - Barrel Export
+export { default as AnimatedGridBackground } from './AnimatedGridBackground';
+export { default as GlassmorphismCard } from './GlassmorphismCard';
+export { default as PlacementGauge } from './PlacementGauge';
+export { default as AnimatedKPI } from './AnimatedKPI';
+export { default as DashboardPreviewCard } from './DashboardPreviewCard';
+export { default as HeroSection } from './HeroSection';
+export { default as FeatureCardsSection } from './FeatureCardsSection';
+export { default as AnalyticsPreviewSection } from './AnalyticsPreviewSection';
+export { default as HowItWorksSection } from './HowItWorksSection';
+export { default as DBMSSecuritySection } from './DBMSSecuritySection';
+export { default as PremiumFooter } from './PremiumFooter';
