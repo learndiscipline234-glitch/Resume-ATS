@@ -4,7 +4,7 @@
 
 NextStep Career AI helps users understand their current skills, identify gaps for target career roles, analyze resumes, and receive AI-powered career guidance.
 
-This project was originally developed by [Adrian Dsouza](https://github.com/adrian-25/Next-Step-Career-AI). This repository is an independent deployment/customized version of the project. The original MIT license and attribution are preserved.
+This repository is an independent deployment/customized version of the project. The original MIT license and attribution are preserved.
 
 ---
 
